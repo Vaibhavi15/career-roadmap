@@ -8,7 +8,7 @@ Some screenshots of the product below-
 
 ![image](https://github.com/user-attachments/assets/6c5045f8-240d-4c32-86cb-c771b3e07e7a)
 
-
+Deployed at https://theclassment-roadmap.vercel.app/ for public use
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
