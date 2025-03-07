@@ -1,3 +1,15 @@
+Career Roadmap for a user to generate their personalized roadmap.
+
+Some screenshots of the product below-
+
+![image](https://github.com/user-attachments/assets/eaddba01-0006-4900-9866-cb6ff8cd56cb)
+
+![image](https://github.com/user-attachments/assets/30603cd4-b1de-4158-8c42-8ed7f78c3d41)
+
+![image](https://github.com/user-attachments/assets/6c5045f8-240d-4c32-86cb-c771b3e07e7a)
+
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
